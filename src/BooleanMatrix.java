@@ -43,7 +43,7 @@ public class BooleanMatrix {
         // Apply logic
         BooleanMatrixProblem(mat, m, n);
         
-        // Output (NO TRAILING SPACES 👀)
+        // Output
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print(mat[i][j]);
